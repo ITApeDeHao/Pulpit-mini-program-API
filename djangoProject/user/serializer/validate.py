@@ -57,8 +57,8 @@ def MobileCodeSend(TemplateId,Phone=None, Code=None):
         req = models.SendSmsRequest()
         params = {
             "PhoneNumberSet": [Phone],
-            "SmsSdkAppId": "1400711701",
-            "SignName": "Django测试",
+            "SmsSdkAppId": "",
+            "SignName": "",
             "TemplateId": TemplateId,
             "TemplateParamSet": [Code]
         }
