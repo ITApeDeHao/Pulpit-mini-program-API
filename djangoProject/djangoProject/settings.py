@@ -143,7 +143,7 @@ CACHES = {
         }
     }
 }
-
-TENCENT_SECRET_ID = "AKIDJSN2ScXDdojPpzuZ2HH2XmmW1GG0VkjX"
-TENCENT_SECRET_KEY = "bw1rSnsiLjrjMjqiKgqmTv76qLFtIRLz"
+# Tencent Message
+TENCENT_SECRET_ID = ""
+TENCENT_SECRET_KEY = ""
 TENCENT_CITY = "ap-nanjing"
